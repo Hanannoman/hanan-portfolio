@@ -3,7 +3,7 @@ export const projects = [
   {
     id: "1",
     title: "NFT-MARKETPLACE",
-    image: "/hanin-portfolio/assets/image/marketplace.png",
+    image: "/hanin-portfolio/assets/image/marketplace.jpg",
     demoLink: "https://hanannoman.github.io/nft-front/",
     githubLink: "https://github.com/Hanannoman/nft-front.git",
     date: "2025-2026",
@@ -44,7 +44,7 @@ Implemented JWT authentication and smooth user flows, with animations and intera
   {
     id: "4",
     title: "Blog ",
-    image: "/hanin-portfolio/assets/image/blog.png",
+    image: "/hanin-portfolio/assets/image/blog.jpg",
     demoLink: "https://hanannoman.github.io/task6-adv/",
     githubLink: "https://github.com/Hanannoman/task6-adv.git",
     date: "2025-2026",
@@ -57,7 +57,7 @@ Implemented JWT authentication and smooth user flows, with animations and intera
   {
     id: "5",
     title: "E-commerce store",
-    image: "/hanin-portfolio/assets/image/E-commerce.png",
+    image: "/hanin-portfolio/assets/image/E-commerce.jpg",
     demoLink: "https://hanannoman.github.io/task4-adv/",
     githubLink: "https://github.com/Hanannoman/task4-adv.git",
     date: "2026",
@@ -69,7 +69,7 @@ details: "Developed a responsive e-commerce interface for product management and
   {
     id: "6",
     title: "Travel Booking",
-    image: "/hanin-portfolio/assets/image/travel.png",
+    image: "/hanin-portfolio/assets/image/travel.jpg",
     demoLink: "#",
     githubLink: "https://github.com/Hanannoman/task7-adv.git",
     date: "2026",
